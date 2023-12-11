@@ -4,13 +4,13 @@ title: Experiences
 permalink: /experiences/
 ---
 
-### Research Assistant, LSU Mobile Device Security Lab, Baton Rouge, LA
+### Undergraduate Researcher, [LSU Mobile Device Security Lab](https://csc.lsu.edu/~chenwang/){:target="_blank"}
 - *August 2022 – Present*
 - Collaborated closely with professors and PhD students to design and execute experiments using Software Defined Radio (SDR) devices and Linux systems to capture and analyze radio signals, with a focus on the privacy implications of trackers like Airtags.
 - Led an analysis of sound leakage from bone conduction headphones, assessing potential privacy concerns.
 - Utilized MATLAB extensively to process and analyze complex data sets, both in the investigation of GPS tracker privacy implications and sound leakage.
 
-### Software Engineer Intern, Chevron, Houston, TX
+### Software Engineer Intern, [Chevron](https://www.Chevron.com){:target="_blank"}
 - *May 2023 – August 2023*
 - Led the development of LAS and DLIS file scrapers using Python, adhering to Agile methodology and industry best practices.
 - Demonstrated exceptional problem-solving skills by extracting comprehensive DLIS file information, enhancing the company's data processing capabilities.
@@ -20,7 +20,7 @@ permalink: /experiences/
 - Conducted comprehensive unit testing to ensure code robustness and utilized Azure DevOps for streamlined CI/CD processes.
 - Forecasted to contribute to multi-million-dollar monetary benefits for Chevron through enhanced exploration efficiency and data processing.
 
-### Software Engineer Intern, Chevron, Houston, TX
+### Software Engineer Intern, [Chevron](https://www.Chevron.com){:target="_blank"}
 - *May 2022 – August 2022*
 - Interacted with key stakeholders, product owners, and business leads to understand business requirements and processes.
 - Worked in an Agile environment with a team of developers, on-shore and off-shore, to make high-value enhancements to the frontend and backend.
@@ -28,10 +28,7 @@ permalink: /experiences/
 - Developed a strong understanding of cloud computing concepts and technologies such as IaaS, PaaS, SaaS, Azure architecture, and Azure DevOps.
 - Identified inefficiencies with the code release process and worked with the development team to create a new release process, resulting in fewer code merging and deployment issues.
 
-## Skills, Certifications & Activities
+## Skills & Certifications
 
 - **Technical Skills:** Java, Python, C++, JavaScript, TypeScript, Flutter, GraphQL, SQL, Bash, Angular, Git, Agile, Google Cloud, Microsoft Azure.
-- **Certifications:** Microsoft Azure Fundamentals (AZ-900), Microsoft Azure Administrator (AZ-104), Google Cloud Certified: Cloud Digital Leader.
-- **Languages spoken:** Hindi, English, and intermediate French.
-
-**Activities:** LearnToBe – Tutor, Security Society at LSU – Member, Google Student Developers Club – Core Team
+- **Certifications:** [Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/users/adityasrivastava-8756/credentials/4f4f740650d0295f){:target="_blank"}, [Microsoft Azure Administrator (AZ-104)](https://learn.microsoft.com/en-us/users/adityasrivastava-8756/credentials/e6730455efc26e16){:target="_blank"}, [Google Cloud Certified: Cloud Digital Leader](https://www.credential.net/15ce8099-7e83-47f6-8c85-e47f1b965333?key=911e28d652066c1b6a9c298d9020eebfed64b2b65d3c657536e054022635f296&trk=public_profile_see-credential){:target="_blank"}.
