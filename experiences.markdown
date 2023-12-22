@@ -35,4 +35,4 @@ permalink: /experiences/
     * [Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/users/adityasrivastava-8756/credentials/4f4f740650d0295f){:target="_blank"} 
     * [Microsoft Azure Administrator (AZ-104)](https://learn.microsoft.com/en-us/users/adityasrivastava-8756/credentials/e6730455efc26e16){:target="_blank"}
     * [Google Cloud Certified: Cloud Digital Leader](https://www.credential.net/15ce8099-7e83-47f6-8c85-e47f1b965333?key=911e28d652066c1b6a9c298d9020eebfed64b2b65d3c657536e054022635f296&trk=public_profile_see-credential){:target="_blank"}
-    * [AWS Certified Cloud Practitioner](https://www.credly.com/badges/40d7a0c6-a34f-436d-8d49-4f543cabe4bd/public_url){:target="_blank"}
+    * [AWS Certified Cloud Practitioner (CLF-C02)](https://www.credly.com/badges/40d7a0c6-a34f-436d-8d49-4f543cabe4bd/public_url){:target="_blank"}
