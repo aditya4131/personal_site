@@ -36,7 +36,9 @@ efficiency and data processing.
 
 ## Skills & Certifications
 
-- **Technical Skills:** Java, Python, C++, JavaScript, TypeScript, Flutter, GraphQL, SQL, Bash, Angular, Git, Agile, Google Cloud, Microsoft Azure.
+- **Programming Languages:** Java, Python, C++, JavaScript, TypeScript
+- **Frameworks:** Angular, GraphQL, Flutter, React
+- **Cloud Platforms:** Google Cloud, Microsoft Azure, Amazon Web Services
 - **Certifications:** 
     * [Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/users/adityasrivastava-8756/credentials/4f4f740650d0295f){:target="_blank"} 
     * [Microsoft Azure Administrator (AZ-104)](https://learn.microsoft.com/en-us/users/adityasrivastava-8756/credentials/e6730455efc26e16){:target="_blank"}
