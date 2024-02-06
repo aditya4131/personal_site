@@ -20,4 +20,4 @@ Bachelors of Science, Computer Science
 
 ## Resume
 
-[Resume](https://hej4dtfnfqkde6jg.public.blob.vercel-storage.com/RESUME%20TEMPLATE%20-%20AS_revised_2024_pdf.pdf =100x100){:target="_blank"}
+[Resume](https://hej4dtfnfqkde6jg.public.blob.vercel-storage.com/RESUME%20TEMPLATE%20-%20AS_revised_2024_pdf.pdf =10x10){:target="_blank"}
