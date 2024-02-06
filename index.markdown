@@ -18,6 +18,6 @@ I'm a Computer Science student at LSU currently working as a research assistant.
 [**Lousiana State University**](https://www.lsu.edu){:target="_blank"}\
 Bachelors of Science, Computer Science
 
-## Resume
+<!-- ## Resume
 
-[Resume](https://hej4dtfnfqkde6jg.public.blob.vercel-storage.com/RESUME%20TEMPLATE%20-%20AS_revised_2024_pdf.pdf =100x20){:target="_blank"}
+[Resume](https://hej4dtfnfqkde6jg.public.blob.vercel-storage.com/RESUME%20TEMPLATE%20-%20AS_revised_2024_pdf.pdf =100x20){:target="_blank"} -->
